@@ -9,4 +9,6 @@ int main(int argc, char** argr)
   cout << "Enter an integer: ";
   cin >> a;
   cout << "Your number times 2 = " << a * 2 << endl;
+  cout << "Changes" << endl;
+  cout << "This is low key annoying" << endl;
 }
